@@ -11,7 +11,7 @@ Adludio aims to streamline and enhance the ad creation process by automating the
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/SelamT94/AdStoryboardGenerator.git
    ```
 2. Install dependencies:
    ```bash
